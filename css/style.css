@@ -2,3 +2,43 @@ html, body {
     margin: 0;
     background-color: black;
 }
+
+main {
+    color: white;
+    font-family: Verdana;
+    text-align: center;
+}
+
+#header {
+    font-size: 50px;
+}
+
+.dl-links {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.description {
+    font-size: 21px;
+    color: gray;
+}
+
+.mid-title {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.tent {
+    padding: 15px;
+}
+
+.phone-emblem {
+    padding: 15px;
+}
+
+#copywrite {
+    color: gray;
+    text-align: right;
+    font-size: 20px;
+    padding: 10px;
+}
